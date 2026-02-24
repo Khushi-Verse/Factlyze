@@ -51,10 +51,11 @@ export default function Hero() {
               : "translateY(20px)",
           }}
         />
+        
 
         <h1
-          className="title"
-          style={{
+          className="title brand-font"
+          style={{ 
             opacity: showContent ? 1 : 0,
             transform: showContent
               ? "translateY(0)"

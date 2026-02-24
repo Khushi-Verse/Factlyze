@@ -119,6 +119,7 @@ export default function Home(props: any) {
                     initial={{ width: 0 }}
                     animate={{ width: `${result.clickbait_score}%` }}
                     className="fill"
+                    style={{ backgroundColor: '#00ffc3' }}
                   />
                 </div>
                 <p className="text-xs text-[#888] mt-3">Likelihood of sensationalized or misleading framing.</p>
@@ -135,7 +136,7 @@ export default function Home(props: any) {
                   <motion.div 
                     initial={{ width: "50%" }}
                     animate={{ width: `${result.bias_balance}%` }}
-                    style={{ background: 'linear-gradient(90deg, #00ffc3)' }}
+                    style={{ backgroundColor: '#00ffc3' }}
                     className="fill"
                   />
                 </div>
@@ -150,7 +151,7 @@ export default function Home(props: any) {
               {/* Emotions Detected */}
               <div className="analysis-box">
                 <h3>Emotions Detected</h3>
-                <div className="flex flex-wrap gap-2 mt-2">
+                <div className="flex flex-wrap gap-2  mt-2">
                   {result.emotions_detected.map((emotion, i) => (
                     <span key={i} className="px-3 py-1 bg-[#7b2ff7]/20 border border-[#7b2ff7]/40 rounded-full text-xs text-[#7b2ff7] font-semibold">
                       {emotion}

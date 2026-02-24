@@ -110,8 +110,10 @@ export default function App() {
       {/* NAVBAR */}
       <nav className="navbar">
   <div className="flex items-center gap-3">
-    <img src={logo} alt="Factalyze Logo" className="logo-img" />
-    <span className="text-xl font-semibold tracking-wide">Factalyze</span>
+    <img src={logo} alt="Factlyze Logo" className="logo-img" />
+    <span className="text-2xl font-extrabold tracking-widest text-white brand-font">
+  Factlyze
+</span>
   </div>
 
   <div className="flex items-center gap-10 text-sm font-medium text-gray-300">
