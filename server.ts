@@ -3,11 +3,13 @@ import { createServer as createViteServer } from "vite";
 import dotenv from "dotenv";
 import OpenAI from "openai";
 import Tesseract from "tesseract.js";
+import cors from "cors";
 
 dotenv.config();
 
 async function startServer() {
   const app = express();
+  app.use(cors());
   const PORT = Number(process.env.PORT) || 3000;
 
   app.use(express.json({ limit: "10mb" }));
