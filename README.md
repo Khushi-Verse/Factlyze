@@ -31,7 +31,7 @@
 
 ### Team Members:  
 - Name 1 Khushi Singh(Khushi-Verse/github profile),(https://www.linkedin.com/in/khushi-singh-414287305?utm_source=share_via&utm_content=profile&utm_medium=member_android/ linkedin url)
-- Name 2  Niyati (Nishchay71177/githib profile),(https://www.linkedin.com/in/ nishchay-garg-a04994351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/linkedin)
+- Name 2  Niyati (https://github.com/niyatikailkhura-lang),(https://www.linkedin.com/in/niyati-kailkhura-453765369/)
 - Name 3  Samriddhi Raj (samriddhiraj84/github profile),(https://www.linkedin.com/in/samriddhi-raj-317b6a381/?utm_source=share_via&utm_content=profile&utm_medium=member_android/ linkedin url)
 
 ### Your Approach:  
