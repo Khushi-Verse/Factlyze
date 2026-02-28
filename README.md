@@ -30,9 +30,9 @@
 'The Exception'
 
 ### Team Members:  
-- Name 1 Khushi Singh(Khushi-Verse/github profile),(https://www.linkedin.com/in/khushi-singh-414287305?utm_source=share_via&utm_content=profile&utm_medium=member_android/ linkedin url)
-- Name 2  Niyati (https://github.com/niyatikailkhura-lang),(https://www.linkedin.com/in/niyati-kailkhura-453765369/)
-- Name 3  Samriddhi Raj (samriddhiraj84/github profile),(https://www.linkedin.com/in/samriddhi-raj-317b6a381/?utm_source=share_via&utm_content=profile&utm_medium=member_android/ linkedin url)
+- Khushi Singh(Khushi-Verse/github profile),(https://www.linkedin.com/in/khushi-singh-414287305?utm_source=share_via&utm_content=profile&utm_medium=member_android/ linkedin url)
+- Niyati (https://github.com/niyatikailkhura-lang),(https://www.linkedin.com/in/niyati-kailkhura-453765369/)
+- Samriddhi Raj (samriddhiraj84/github profile),(https://www.linkedin.com/in/samriddhi-raj-317b6a381/?utm_source=share_via&utm_content=profile&utm_medium=member_android/ linkedin url)
 
 ### Your Approach:  
 - Why you chose this problem ->As students and daily internet users, we noticed how easily misinformation spreads through emotionally charged headlines and biased narratives.
@@ -83,8 +83,8 @@ Factlyze is our step toward a more informed digital society.
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** []
-- **Pitch Deck / PPT Link:** []
+- **Demo Video Link:** [https://drive.google.com/file/d/1hIJqonekshbGjSBugAiaz3ekVtMRiNz-/view?usp=drive_link]
+- **Pitch Deck / PPT Link:** [https://drive.google.com/file/d/1ZlMTV3CW8uW4E4qQO-okvSuMl8HTj_Dg/view?usp=drive_link]
 
 ---
 
